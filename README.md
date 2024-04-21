@@ -27,7 +27,9 @@ With its intuitive interface, robust features, and seamless performance, TaskMas
 
 ## Features
 
-List of key features or functionalities of the project.
+```
+code goes here
+```
 
 ## Installation
 
