@@ -27,9 +27,7 @@ With its intuitive interface, robust features, and seamless performance, TaskMas
 
 ## Features
 
-```
-code goes here
-```
+`code goes here`
 
 ## Installation
 
